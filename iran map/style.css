@@ -1,0 +1,22 @@
+body {
+    background: #222;
+    zoom: initial;
+}
+.path-city {
+    stroke: #fff;
+}
+.path-city:hover {
+    fill: #fff;
+}
+.path-city-g1 {
+    fill: blue;
+}
+.path-city-g2 {
+    fill: #ffa71e;
+}
+.path-city-g3 {
+    fill: rebeccapurple;
+}
+.path-city-g4 {
+    fill: #89cb2b;
+}
